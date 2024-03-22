@@ -14,7 +14,16 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" rel="stylesheet">
 
-        <style>*{font-family: "Roboto Serif", serif;}</style>
+        <style>
+            *
+            {
+                font-family: "Roboto Serif", serif;
+            }
+
+            .pagination div span.relative {
+                /* background-color: rgb(76 29 149); */
+            }
+        </style>
 
         <script src="https://cdn.tailwindcss.com"></script>
 
